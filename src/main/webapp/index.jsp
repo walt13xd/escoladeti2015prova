@@ -5,9 +5,9 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Prova Escola de TI 2015</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>Hello my name is Walter! I am member of the Group03</h1>
     </body>
 </html>
